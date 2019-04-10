@@ -6,4 +6,5 @@ Implemented <b>Single Linear regression</b> is applied using predictor: curb-wei
 Implemented <b>Ridge</b> and <b>Lasso</b> Regression.<br>
 Hyperparameter tuning of these models is done using <b>GridSearchCV</b>
 <br>
-Link to dataset: https://www.kaggle.com/toramky/automobile-dataset
+Link to dataset: https://www.kaggle.com/toramky/automobile-dataset<br>
+Link to Kaggle Kernel: https://www.kaggle.com/kushagra7744/linear-regression-datalit
